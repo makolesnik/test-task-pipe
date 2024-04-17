@@ -1,3 +1,5 @@
+[![Test Task CI](https://github.com/makolesnik/test-task-pipe/actions/workflows/test.yml/badge.svg)](https://github.com/makolesnik/test-task-pipe/actions/workflows/test.yml)
+
 # Example
 
 This repository contains a simple implementation of a function pipeline mechanism in JavaScript, which allows chaining multiple functions into a single operation. This pattern is especially useful for creating sequences of data transformations.
