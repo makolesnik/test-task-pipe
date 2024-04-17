@@ -1,0 +1,6 @@
+node_modules/
+npm-debug.log*
+coverage/
+jest-cache/
+.vscode/
+.DS_Store
